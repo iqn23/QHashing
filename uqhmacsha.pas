@@ -5,7 +5,6 @@ unit uQHMACSHA;
 interface
 
 uses
-  //Classes,
   SysUtils,
   fpsha256,
   basenenc
